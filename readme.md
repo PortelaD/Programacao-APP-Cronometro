@@ -17,7 +17,7 @@ Cronômetro é um aplicativo simples que oferece funções para iniciar, pausar 
 
 1. Clone este repositório:
 ```bash
-git clone 
+git clone https://github.com/PortelaD/Programacao-APP-Cronometro.git
 ```
 
 2. Instale as dependências:
